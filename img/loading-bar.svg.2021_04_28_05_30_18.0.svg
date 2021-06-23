@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="loading-bar.svg"
+   inkscape:version="1.0.2 (394de47547, 2021-03-26)">
+  <defs
+     id="defs2">
+    <rect
+       x="31.680005"
+       y="0.43222241"
+       width="9.8220385"
+       height="4.5565887"
+       id="rect267" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1274"
+       x="-0.00027101211"
+       width="1.000542"
+       y="-0.0019314148"
+       height="1.0038628">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.0043840624"
+         id="feGaussianBlur1276" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1560"
+       x="-0.0001128352"
+       width="1.0002257"
+       y="-0.00025779457"
+       height="1.0005156">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.0002006238"
+         id="feGaussianBlur1562" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.5946575"
+     inkscape:cx="64.467396"
+     inkscape:cy="10.587554"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g66"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     inkscape:lockguides="false"
+     inkscape:window-width="1294"
+     inkscape:window-height="704"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="true">
+    <sodipodi:guide
+       position="16.627372,296.42893"
+       orientation="0,-1"
+       id="guide80" />
+    <sodipodi:guide
+       position="1.5152502,295.93692"
+       orientation="1,0"
+       id="guide82" />
+    <sodipodi:guide
+       position="2.9514427,291.96851"
+       orientation="1,0"
+       id="guide84" />
+    <sodipodi:guide
+       position="33.156333,296.42894"
+       orientation="1,0"
+       id="guide86" />
+    <sodipodi:guide
+       position="4.3876351,296.42894"
+       orientation="1,0"
+       id="guide92" />
+    <sodipodi:guide
+       position="5.8238276,296.42894"
+       orientation="1,0"
+       id="guide98" />
+    <sodipodi:guide
+       position="7.2600201,296.42894"
+       orientation="1,0"
+       id="guide104" />
+    <sodipodi:guide
+       position="8.6962126,296.42894"
+       orientation="1,0"
+       id="guide110" />
+    <sodipodi:guide
+       position="10.132405,296.42894"
+       orientation="1,0"
+       id="guide116" />
+    <sodipodi:guide
+       position="11.568598,296.42894"
+       orientation="1,0"
+       id="guide122" />
+    <sodipodi:guide
+       position="13.00479,296.42894"
+       orientation="1,0"
+       id="guide128" />
+    <sodipodi:guide
+       position="14.440982,296.42894"
+       orientation="1,0"
+       id="guide134" />
+    <sodipodi:guide
+       position="15.877174,291.96851"
+       orientation="1,0"
+       id="guide140" />
+    <sodipodi:guide
+       position="17.313366,296.42894"
+       orientation="1,0"
+       id="guide146" />
+    <sodipodi:guide
+       position="18.749557,296.42894"
+       orientation="1,0"
+       id="guide152" />
+    <sodipodi:guide
+       position="20.185749,296.42894"
+       orientation="1,0"
+       id="guide158" />
+    <sodipodi:guide
+       position="21.62194,296.42894"
+       orientation="1,0"
+       id="guide164" />
+    <sodipodi:guide
+       position="23.058132,296.42894"
+       orientation="1,0"
+       id="guide170" />
+    <sodipodi:guide
+       position="24.494323,296.42894"
+       orientation="1,0"
+       id="guide176" />
+    <sodipodi:guide
+       position="25.930515,296.42894"
+       orientation="1,0"
+       id="guide182" />
+    <sodipodi:guide
+       position="27.366706,296.42894"
+       orientation="1,0"
+       id="guide188" />
+    <sodipodi:guide
+       position="28.802898,296.42894"
+       orientation="1,0"
+       id="guide194" />
+    <sodipodi:guide
+       position="30.239089,296.42894"
+       orientation="1,0"
+       id="guide200" />
+    <sodipodi:guide
+       position="31.675279,296.42894"
+       orientation="1,0"
+       id="guide206" />
+    <sodipodi:guide
+       position="30.239087,291.96851"
+       orientation="0,-1"
+       id="guide218" />
+    <sodipodi:guide
+       position="38.643092,296.92282"
+       orientation="1,0"
+       id="guide224" />
+    <sodipodi:guide
+       position="37.206897,296.42894"
+       orientation="1,0"
+       id="guide226" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid94" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="BOITE"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline;filter:url(#filter1274)">
+    <rect
+       style="fill:#ffffff;stroke:#008000;stroke-width:0.154382;stroke-opacity:0.0028431"
+       id="rect44"
+       height="5.4481988"
+       x="2.4174147"
+       y="2.1519532"
+       inkscape:export-filename="/home/marc/Pictures/loading-bar-100.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       width="38.565903" />
+  </g>
+  <g
+     inkscape:label="RECTANGLE"
+     inkscape:groupmode="layer"
+     id="g66"
+     style="display:inline;filter:url(#filter1274)">
+    <rect
+       style="fill:#4e9a06;fill-opacity:1;stroke:#4e9a06;stroke-width:0.0269565;stroke-opacity:1"
+       id="rect64"
+       height="4.4604321"
+       x="3.8554742"
+       y="2.6458333"
+       width="1.4361924" />
+  </g>
+  <g
+     inkscape:label="RECTANGLE copy"
+     inkscape:groupmode="layer"
+     id="g90"
+     style="display:none;filter:url(#filter1274)">
+    <rect
+       style="fill:#008000;stroke:#000000;stroke-width:0.0269565;stroke-opacity:1"
+       id="rect88"
+       width="1.4361924"
+       height="4.4604321"
+       x="2.9514427"
+       y="0.57107079" />
+  </g>
+  <g
+     inkscape:label="RECTANGLE copy copy"
+     inkscape:groupmode="layer"
+     id="g96"
+     style="display:none;filter:url(#filter1274)">
+    <rect
+       style="fill:#008000;stroke:#000000;stroke-width:0.0269565;stroke-opacity:1"
+       id="rect94"
+       width="1.4361924"
+       height="4.4604321"
+       x="4.3876352"
+       y="0.57107079" />
+  </g>
+  <g
+     inkscape:label="RECTANGLE copy copy copy"
+     inkscape:groupmode="layer"
+     id="g102"
+     style="display:none;filter:url(#filter1274)">
+    <rect
+       style="fill:#008000;stroke:#000000;stroke-width:0.0269565;stroke-opacity:1"
+       id="rect100"
+       width="1.4361924"
+       height="4.4604321"
+       x="5.8238277"
+       y="0.57107079" />
+  </g>
+  <g
+     inkscape:label="RECTANGLE copy copy copy copy"
+     inkscape:groupmode="layer"
+     id="g108"
+     style="display:none;filter:url(#filter1274)">
+    <rect
+       style="fill:#008000;stroke:#000000;stroke-width:0.0269565;stroke-opacity:1"
+       id="rect106"
+       width="1.4361924"
+       height="4.4604321"
+       x="7.2600203"
+       y="0.57107079" />
+  </g>
+  <g
+     inkscape:label="RECTANGLE copy copy copy copy copy"
+     inkscape:groupmode="layer"
+     id="g114"
+     style="display:none;filter:url(#filter1274)">
+    <rect
+       style="fill:#008000;stroke:#000000;stroke-width:0.0269565;stroke-opacity:1"
+       id="rect112"
+       width="1.4361924"
+       height="4.4604321"
+       x="8.6962128"
+       y="0.57107079" />
+  </g>
+  <g
+     inkscape:label="RECTANGLE copy copy copy copy copy copy"
+     inkscape:groupmode="layer"
+     id="g120"
+     style="display:none;filter:url(#filter1274)">
+    <rect
+       style="fill:#008000;stroke:#000000;stroke-width:0.0269565;stroke-opacity:1"
+       id="rect118"
+       width="1.4361924"
+       height="4.4604321"
+       x="10.132405"
+       y="0.57107079" />
+  </g>
+  <g
+     inkscape:label="RECTANGLE copy copy copy copy copy copy copy"
+     inkscape:groupmode="layer"
+     id="g126"
+     style="display:none;filter:url(#filter1274)">
+    <rect
+       style="fill:#008000;stroke:#000000;stroke-width:0.0269565;stroke-opacity:1"
+       id="rect124"
+       width="1.4361924"
+       height="4.4604321"
+       x="11.568598"
+       y="0.57107079" />
+  </g>
+  <g
+     inkscape:label="RECTANGLE copy copy copy copy copy copy copy copy"
+     inkscape:groupmode="layer"
+     id="g132"
+     style="display:none;filter:url(#filter1274)">
+    <rect
+       style="fill:#008000;stroke:#000000;stroke-width:0.0269565;stroke-opacity:1"
+       id="rect130"
+       width="1.4361924"
+       height="4.4604321"
+       x="13.00479"
+       y="0.57107079" />
+  </g>
+  <g
+     inkscape:label="RECTANGLE copy copy copy copy copy copy copy copy copy"
+     inkscape:groupmode="layer"
+     id="g138"
+     style="display:none;filter:url(#filter1274)">
+    <rect
+       style="fill:#008000;stroke:#000000;stroke-width:0.0269565;stroke-opacity:1"
+       id="rect136"
+       width="1.4361924"
+       height="4.4604321"
+       x="14.440982"
+       y="0.57107079" />
+  </g>
+  <g
+     inkscape:label="RECTANGLE copy copy copy copy copy copy copy copy copy copy"
+     inkscape:groupmode="layer"
+     id="g144"
+     style="display:none;filter:url(#filter1274)">
+    <rect
+       style="fill:#008000;stroke:#000000;stroke-width:0.0269565;stroke-opacity:1"
+       id="rect142"
+       width="1.4361924"
+       height="4.4604321"
+       x="15.877174"
+       y="0.57107079" />
+  </g>
+  <g
+     inkscape:label="RECTANGLE copy copy copy copy copy copy copy copy copy copy copy"
+     inkscape:groupmode="layer"
+     id="g150"
+     style="display:none;filter:url(#filter1274)">
+    <rect
+       style="fill:#008000;stroke:#000000;stroke-width:0.0269565;stroke-opacity:1"
+       id="rect148"
+       width="1.4361924"
+       height="4.4604321"
+       x="17.313366"
+       y="0.57107079" />
+  </g>
+  <g
+     inkscape:label="RECTANGLE copy copy copy copy copy copy copy copy copy copy copy copy"
+     inkscape:groupmode="layer"
+     id="g156"
+     style="display:none;filter:url(#filter1274)">
+    <rect
+       style="fill:#008000;stroke:#000000;stroke-width:0.0269565;stroke-opacity:1"
+       id="rect154"
+       width="1.4361924"
+       height="4.4604321"
+       x="18.749557"
+       y="0.57107079" />
+  </g>
+  <g
+     inkscape:label="RECTANGLE copy copy copy copy copy copy copy copy copy copy copy copy copy"
+     inkscape:groupmode="layer"
+     id="g162"
+     style="display:none;filter:url(#filter1274)">
+    <rect
+       style="fill:#008000;stroke:#000000;stroke-width:0.0269565;stroke-opacity:1"
+       id="rect160"
+       width="1.4361924"
+       height="4.4604321"
+       x="20.185749"
+       y="0.57107079" />
+  </g>
+  <g
+     inkscape:label="RECTANGLE copy copy copy copy copy copy copy copy copy copy copy copy copy copy"
+     inkscape:groupmode="layer"
+     id="g168"
+     style="display:none;filter:url(#filter1274)">
+    <rect
+       style="fill:#008000;stroke:#000000;stroke-width:0.0269565;stroke-opacity:1"
+       id="rect166"
+       width="1.4361924"
+       height="4.4604321"
+       x="21.621941"
+       y="0.57107079" />
+  </g>
+  <g
+     inkscape:label="RECTANGLE copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy"
+     inkscape:groupmode="layer"
+     id="g174"
+     style="display:none;filter:url(#filter1274)">
+    <rect
+       style="fill:#008000;stroke:#000000;stroke-width:0.0269565;stroke-opacity:1"
+       id="rect172"
+       width="1.4361924"
+       height="4.4604321"
+       x="23.058132"
+       y="0.57107079" />
+  </g>
+  <g
+     inkscape:label="RECTANGLE copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy"
+     inkscape:groupmode="layer"
+     id="g180"
+     style="display:none;filter:url(#filter1274)">
+    <rect
+       style="fill:#008000;stroke:#000000;stroke-width:0.0269565;stroke-opacity:1"
+       id="rect178"
+       width="1.4361924"
+       height="4.4604321"
+       x="24.494324"
+       y="0.57107079" />
+  </g>
+  <g
+     inkscape:label="RECTANGLE copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy"
+     inkscape:groupmode="layer"
+     id="g186"
+     style="display:none;filter:url(#filter1274)">
+    <rect
+       style="fill:#008000;stroke:#000000;stroke-width:0.0269565;stroke-opacity:1"
+       id="rect184"
+       width="1.4361924"
+       height="4.4604321"
+       x="25.930515"
+       y="0.57107079" />
+  </g>
+  <g
+     inkscape:label="RECTANGLE copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy"
+     inkscape:groupmode="layer"
+     id="g192"
+     style="display:none;filter:url(#filter1274)">
+    <rect
+       style="fill:#008000;stroke:#000000;stroke-width:0.0269565;stroke-opacity:1"
+       id="rect190"
+       width="1.4361924"
+       height="4.4604321"
+       x="27.366707"
+       y="0.57107079" />
+  </g>
+  <g
+     inkscape:label="RECTANGLE copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy copy"
+     inkscape:groupmode="layer"
+     id="g198"
+     style="display:none;filter:url(#filter1274)">
+    <rect
+       style="fill:#008000;stroke:#000000;stroke-width:0.0269565;stroke-opacity:1"
+       id="rect196"
+       width="1.4361924"
+       height="4.4604321"
+       x="28.802896"
+       y="0.57107079" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="text" />
+  <text
+     xml:space="preserve"
+     id="text265"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.38125px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect267);fill:#008000;filter:url(#filter1560)"
+     transform="translate(2.1069144,3.1584463)"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300"
+     inkscape:export-filename="/home/marc/text265.png"><tspan
+       x="31.679688"
+       y="2.6165161"
+       id="tspan90"
+       style="font-size:2.38125px;shape-inside:url(#rect267)">5%</tspan></text>
+</svg>
